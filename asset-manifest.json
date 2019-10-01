@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/form_recruitment_task/static/js/main.4c8546e5.chunk.js",
+    "main.js.map": "/form_recruitment_task/static/js/main.4c8546e5.chunk.js.map",
+    "runtime-main.js": "/form_recruitment_task/static/js/runtime-main.4232d4ab.js",
+    "runtime-main.js.map": "/form_recruitment_task/static/js/runtime-main.4232d4ab.js.map",
+    "static/js/2.a4b7d9fb.chunk.js": "/form_recruitment_task/static/js/2.a4b7d9fb.chunk.js",
+    "static/js/2.a4b7d9fb.chunk.js.map": "/form_recruitment_task/static/js/2.a4b7d9fb.chunk.js.map",
+    "index.html": "/form_recruitment_task/index.html",
+    "precache-manifest.fb99528f15d39bcdc7e3e035494f0b51.js": "/form_recruitment_task/precache-manifest.fb99528f15d39bcdc7e3e035494f0b51.js",
+    "service-worker.js": "/form_recruitment_task/service-worker.js"
+  }
+}
